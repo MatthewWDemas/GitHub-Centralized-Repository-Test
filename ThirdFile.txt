@@ -1,0 +1,2 @@
+I have also added another different file.
+I have added a line to this file.
